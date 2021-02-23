@@ -2,7 +2,7 @@
 
 Demo of how to collect snippets for the iot code library
 
-![screenshot](screenshot.jpg)
+![screenshot](https://user-images.githubusercontent.com/720669/108841262-c779d180-75d7-11eb-8c71-154c507c7234.jpg)
 
 ## Features
 
